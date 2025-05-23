@@ -58,19 +58,21 @@ I created this repository as a personal playground to explore and practice diffe
 
 Install PySpark:
 
-
+```bash
 pip install pyspark
-
+````
 
 Run any script using:
 
-
+```bash
 spark-submit <filename>.py
-
+```
 
 Run unit tests:
 
+```bash
 pytest test_unit1.py
+```
 
 ---
 
